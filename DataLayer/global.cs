@@ -51,7 +51,6 @@ namespace NewDotnet.DataLayer
 
             // Add default cohort
             // Try to get the cohort
-            //banauna baki
             string defaultCohort = "x";
             Flag f = _context.Flags.Where(x => x.FlagName == defaultCohort).FirstOrDefault();
             if (f != null)

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\NewDotnet.csproj": {}
+    "/Users/sarthakdhakal/Downloads/NewDotnet/NewDotnet/NewDotnet.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\NewDotnet.csproj": {
+    "/Users/sarthakdhakal/Downloads/NewDotnet/NewDotnet/NewDotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\NewDotnet.csproj",
+        "projectUniqueName": "/Users/sarthakdhakal/Downloads/NewDotnet/NewDotnet/NewDotnet.csproj",
         "projectName": "NewDotnet",
-        "projectPath": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\NewDotnet.csproj",
-        "packagesPath": "C:\\Users\\sarthakdhakal\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\obj\\",
+        "projectPath": "/Users/sarthakdhakal/Downloads/NewDotnet/NewDotnet/NewDotnet.csproj",
+        "packagesPath": "/Users/sarthakdhakal/.nuget/packages/",
+        "outputPath": "/Users/sarthakdhakal/Downloads/NewDotnet/NewDotnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sarthakdhakal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/sarthakdhakal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -105,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
