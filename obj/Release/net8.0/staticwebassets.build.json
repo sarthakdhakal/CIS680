@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0bIabKLkoxttVDfPbE3CXjSAMHGJWzE7sbfUXoLC86g=",
+  "Source": "NewDotnet",
+  "BasePath": "_content/NewDotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

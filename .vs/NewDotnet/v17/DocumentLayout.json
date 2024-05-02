@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\controllers\\cohortcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\controllers\\cohortcontroller_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\controllers\\contentcontroller_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\controllers\\playlistcontroller_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\controllers\\publicapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\controllers\\quizcontroller_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\controllers\\sectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\controllers\\sectioncontroller_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\controllers\\usercontroller_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2239F2E8-7CEA-432F-B64A-BCED4CBA7C89}|NewDotnet.csproj|\\\\mac\\home\\downloads\\newdotnet\\newdotnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dockerfile",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\dockerfile",
+              "RelativeDocumentMoniker": "dockerfile",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\dockerfile",
+              "RelativeToolTip": "dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-26T17:04:01.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T17:01:19.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "adminController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\adminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\adminController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\adminController.cs",
+              "RelativeToolTip": "Controllers\\adminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:10:46.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CohortController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\CohortController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CohortController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\CohortController.cs",
+              "RelativeToolTip": "Controllers\\CohortController.cs",
+              "ViewState": "AQIAAF4AAACAa2ZmZmYjwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:10:38.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContentController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "Controllers\\ContentController.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:10:09.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContentController_Admin.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\ContentController_Admin.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContentController_Admin.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\ContentController_Admin.cs",
+              "RelativeToolTip": "Controllers\\ContentController_Admin.cs",
+              "ViewState": "AQIAAKYAAAAAjpmZmdkkwJUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:09:40.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlaylistController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\PlaylistController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlaylistController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\PlaylistController.cs",
+              "RelativeToolTip": "Controllers\\PlaylistController.cs",
+              "ViewState": "AQIAADYAAACAOTMzMzMmwBoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:09:31.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cohortController_Admin.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\cohortController_Admin.cs",
+              "RelativeDocumentMoniker": "Controllers\\cohortController_Admin.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\cohortController_Admin.cs",
+              "RelativeToolTip": "Controllers\\cohortController_Admin.cs",
+              "ViewState": "AQIAAGEAAABQlpmZmdkpwJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:02:34.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlaylistController_Admin.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\PlaylistController_Admin.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlaylistController_Admin.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\PlaylistController_Admin.cs",
+              "RelativeToolTip": "Controllers\\PlaylistController_Admin.cs",
+              "ViewState": "AQIAAAgAAADgm5mZmZk+wCgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:08:49.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PublicApiController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\PublicApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PublicApiController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\PublicApiController.cs",
+              "RelativeToolTip": "Controllers\\PublicApiController.cs",
+              "ViewState": "AQIAABQAAAAAz8zMzEwnwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:08:40.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuizController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "Controllers\\QuizController.cs",
+              "ViewState": "AQIAAHQAAACAAgAAAGAwwD8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:08:23.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuizController_Admin.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\QuizController_Admin.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuizController_Admin.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\QuizController_Admin.cs",
+              "RelativeToolTip": "Controllers\\QuizController_Admin.cs",
+              "ViewState": "AQIAAF8AAAAA0MzMzEwrwEcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:08:07.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SectionController_Admin.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\SectionController_Admin.cs",
+              "RelativeDocumentMoniker": "Controllers\\SectionController_Admin.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\SectionController_Admin.cs",
+              "RelativeToolTip": "Controllers\\SectionController_Admin.cs",
+              "ViewState": "AQIAAIwAAAAAmJmZmRkcwGwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:07:29.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserController_Admin.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\UserController_Admin.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController_Admin.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\UserController_Admin.cs",
+              "RelativeToolTip": "Controllers\\UserController_Admin.cs",
+              "ViewState": "AQIAAIwAAAAA0MzMzMwBwHsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:04:45.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:04:43.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SectionController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\SectionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SectionController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Controllers\\SectionController.cs",
+              "RelativeToolTip": "Controllers\\SectionController.cs",
+              "ViewState": "AQIAAIcAAAAA9////38owAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T07:06:00.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\NewDotnet\\NewDotnet\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T08:00:57.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

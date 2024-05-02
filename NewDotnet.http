@@ -1,0 +1,6 @@
+@NewDotnet_HostAddress = http://localhost:5210
+
+GET {{NewDotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
