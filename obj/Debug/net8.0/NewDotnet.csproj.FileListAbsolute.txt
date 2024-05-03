@@ -276,3 +276,4 @@
 /Users/sarthakdhakal/Downloads/NewDotnet/NewDotnet/obj/Debug/net8.0/NewDotnet.pdb
 /Users/sarthakdhakal/Downloads/NewDotnet/NewDotnet/obj/Debug/net8.0/NewDotnet.genruntimeconfig.cache
 /Users/sarthakdhakal/Downloads/NewDotnet/NewDotnet/obj/Debug/net8.0/ref/NewDotnet.dll
+/Users/sarthakdhakal/Downloads/NewDotnet/NewDotnet/obj/Debug/net8.0/NewDotnet.sourcelink.json

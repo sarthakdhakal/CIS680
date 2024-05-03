@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © 2024 MNSU")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("REST API for MSU Online Orientation")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6129f0425b31ee5050a659e0a16c7c977975c48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5642aafa071fca32eea8b08fcec717cf5506fc0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Online Orientation Web API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Online Orientation Web API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
